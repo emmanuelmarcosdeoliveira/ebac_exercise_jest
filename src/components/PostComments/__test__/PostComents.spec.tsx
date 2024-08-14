@@ -2,7 +2,7 @@ import { fireEvent, render, screen } from "@testing-library/react";
 import Post from "..";
 
 describe("Testar de Post", () => {
-  test("Deve Adcionar Muito Legal", () => {
+  it("Deve Adcionar Muito Legal", () => {
     render(<Post />);
     fireEvent.change(screen.getByTestId("conentarios"), {
       target: {
@@ -13,7 +13,7 @@ describe("Testar de Post", () => {
 
     expect(screen.getByText("Muito Legal")).toBeInTheDocument();
   });
-  test("Deve Adcionar Adorei..", () => {
+  it("Deve Adcionar Adorei..", () => {
     render(<Post />);
     fireEvent.change(screen.getByTestId("conentarios"), {
       target: {
