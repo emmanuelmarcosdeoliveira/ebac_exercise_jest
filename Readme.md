@@ -1,12 +1,10 @@
 <!-- Banner de Apresentação -->
 
-![readme](https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/Readme-constructor.png)
-<br>
-<br>
+![Banner](https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/emmanuelOliveira.gif)
 
 <!-- Titulo do Projeto -->
 
-# ✨ Fazendo Test com Jest ![Jest](https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg)
+# ✨ Fazendo Test com Jest <img width="102" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" alt="Logo Jest" />
 
 <!-- Badges do Projeto -->
 
@@ -38,11 +36,11 @@
 
 Ese projeto faz parte do curso FullStack Python da `EBAC`, nesse projeto aprendi a trabalhar com o `Jest` uma biblioteca de Teste unitários.<br>
 O Jest.js é um framework de testes JavaScript de código aberto, criado pelo Facebook, que se destaca por sua simplicidade e eficiência. Ele é amplamente utilizado para garantir a qualidade do código em projetos JavaScript, especialmente aqueles que utilizam React.<br>
-O Jest.js é um framework de testes JavaScript de código aberto, criado pelo Facebook, que se destaca por sua simplicidade e eficiência. Ele é amplamente utilizado para garantir a qualidade do código em projetos JavaScript, especialmente aqueles que utilizam React.
+Ele se destaca por sua simplicidade e eficiência. Ele é amplamente utilizado para garantir a qualidade do código em projetos JavaScript, especialmente aqueles que utilizam React.
 
 `Task`
 
-- Escrever `testing`em uma aplicação JavaScript
+- Escrever `testes`em uma aplicação JavaScript
 
 `Charlenge`
 
@@ -51,7 +49,7 @@ Aprender a usar essa biblioteca para a a execução de test em aplicações Java
 
 ### Functionalities
 
-- [x] **Foi desenvolido `testing` na Aplicação usando o jest**
+- [x] **Criação de`teste` na Aplicação usando o jest**
 -
 
 > [!TIP]
