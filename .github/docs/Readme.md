@@ -51,7 +51,6 @@ Aprender a usar essa biblioteca para a a execução de test em aplicações Java
 ### Functionalities
 
 - [x] **Criação de`teste` na Aplicação usando o jest**
--
 
 > [!TIP]
 >
@@ -267,4 +266,4 @@ Released in 2024 This project is under the **MIT license**<br>
 <br>
 <br>
 
-[`voltar ao topo`](#fazendo-test-com-jest)
+[`voltar ao topo`](#-fazendo-testes-com-jest--react-testing-library)
