@@ -17,19 +17,28 @@
 
 ## Table of Contents
 
-- [Project description](#project-description)
-  - [Functionalities](#functionalities)
-- [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [technologies and tools](#technologies-and-tools)
+- [✨ Fazendo testes com Jest \& React Testing Library](#-fazendo-testes-com-jest--react-testing-library)
+  - [Table of Contents](#table-of-contents)
+  - [Project Description](#project-description)
+    - [Functionalities](#functionalities)
+  - [Setup](#setup)
+    - [Prerequisites](#prerequisites)
+    - [technologies and tools](#technologies-and-tools)
   - [Instalation](#instalation)
-- [Usage](#usage)
-- [Update](#update)
-  - [contribute](#contribute-to-the-projects)
-- [References](#references)
-- [Contributors or owners](#contributors-or-owners)
-- [Contact](#contact)
-- [License](#license)
+  - [Usage](#usage)
+  - [Update](#update)
+  - [Contribute to the projects](#contribute-to-the-projects)
+    - [Como fazer uma contribuição ao Projeto ?](#como-fazer-uma-contribuição-ao-projeto-)
+      - [Faça um Fork](#faça-um-fork)
+      - [Clone o Repositório](#clone-o-repositório)
+      - [Crie uma Nova Branch:](#crie-uma-nova-branch)
+      - [Faça as Alterações:](#faça-as-alterações)
+      - [Crie um Pull Request:](#crie-um-pull-request)
+      - [Revise e Responda a Feedback:](#revise-e-responda-a-feedback)
+  - [References](#references)
+  - [Contributors or owners](#contributors-or-owners)
+  - [Contact](#contact)
+  - [License](#license)
 
 <!-- Descriçào do Projeto -->
 
@@ -191,9 +200,13 @@ yarn dev
 ## Update
 
 <br>
+<!-- rE -->
 
-**_Nessa seção teremos as atualizações do Projeto:_**
+> [!IMPORTANT]
+>
+> Nessa seção teremos as atualizações do Projeto:
 
+<!-- teST -->
 <br>
 <br>
 
