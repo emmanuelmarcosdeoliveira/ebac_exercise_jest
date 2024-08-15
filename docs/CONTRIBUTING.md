@@ -1,28 +1,32 @@
-## Fazendo uma contribuição ao Prjeto
+## Como fazer uma contribuição ao Projeto ?
 
-- Leia a Documentação: Familiarize-se com a documentação do projeto, que geralmente inclui guias de instalação, uso e contribuição.
-Código: Explore o código do projeto para entender sua estrutura e funcionamento.
-Comunicação: Participe das discussões nos issues e pull requests para entender o contexto e as expectativas do projeto.
-Faça um Fork:
+#### Leia a Documentação:
+  - Familiarize-se com a documentação do projeto, que geralmente inclui guias de instalação.<br>
+  - Código: Explore o código do projeto para entender sua estrutura e funcionamento.<br>
 
-- Cópia:
-  - Crie uma cópia (fork) do repositório original em sua conta do GitHub. Isso permitirá que você faça alterações sem afetar o projeto original.
-   `Clone o Repositório:`
+#### Faça um Fork
 
-- Local:
-  - Baixe o fork para o seu computador usando o Git. Isso criará uma cópia local do projeto, onde você poderá fazer suas modificações.
-    -  `Crie uma Nova Branch:`
+  - Crie uma cópia (fork) do repositório original em sua conta do GitHub. Isso permitirá que você faça alterações sem afetar o projeto original.<br>
 
-- Isolamento:
-  - Crie uma nova branch para isolar suas alterações. Isso facilita a organização do seu trabalho e a criação de pull requests.
+#### Clone o Repositório
 
-## **Faça as Alterações:**
+-  Isso criará uma cópia local do projeto, onde você poderá fazer suas modificações.
+
+
+#### Crie uma Nova Branch:
+
+
+- Crie uma nova branch para isolar suas alterações. Isso facilita a organização do seu trabalho e a criação de pull requests.
+- Descrição: Inclua uma descrição clara das suas alterações e explique como elas resolvem o problema ou melhoram o projeto.
+- Revise e Responda a Feedback:
+
+#### **Faça as Alterações:**
 
 - Crie um Pull Request:
 
-Solicitação: Envie um pull request para o repositório original, solicitando que suas alterações sejam incorporadas ao projeto.
-Descrição: Inclua uma descrição clara das suas alterações e explique como elas resolvem o problema ou melhoram o projeto.
-Revise e Responda a Feedback:
+- Solicitação: Envie um pull request para o repositório original, solicitando que suas alterações sejam incorporadas ao projeto.<br>
+- Descrição: Inclua uma descrição clara das suas alterações e explique como elas resolvem o problema ou melhoram o projeto.<br>
 
-Colabore: Os mantenedores do projeto podem solicitar alterações ou fornecer feedback sobre o seu código. 
-<sub>Seja aberto a críticas e colabore para melhorar o seu trabalho<sub>
+#### Revise e Responda a Feedback:
+
+- Colabore: Os mantenedores do projeto podem solicitar alterações ou fornecer feedback sobre o seu código.<br> 
