@@ -208,9 +208,15 @@ Código: Explore o código do projeto para entender sua estrutura e funcionament
 
 Crie uma cópia (fork) do repositório original em sua conta do GitHub. Isso permitirá que você faça alterações sem afetar o projeto original.<br>
 
+<img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
+<a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo"></a>
+
 #### Clone o Repositório
 
 Isso criará uma cópia local do projeto, onde você poderá fazer suas modificações.
+
+<img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
+<a href="https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository"></a>
 
 #### Crie uma Nova Branch:
 
@@ -224,7 +230,7 @@ Isso criará uma cópia local do projeto, onde você poderá fazer suas modifica
 
 ### Descrição:
 
-`Inclua uma descrição clara das suas alterações e explique como elas resolvem o problema ou melhoram o projeto.`
+**Inclua uma descrição clara das suas alterações e explique como elas resolvem o problema ou melhoram o projeto.**
 <br>
 
 #### Revise e Responda a Feedback:
