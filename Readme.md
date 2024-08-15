@@ -193,9 +193,7 @@ yarn dev
 
 <br>
 
-> [!IMPORTANT]
->
-> Nessa seção teremos as atualizações do Projeto:
+**_Nessa seção teremos as atualizações do Projeto:_**
 
 <br>
 <br>
@@ -233,10 +231,7 @@ Isso criará uma cópia local do projeto, onde você poderá fazer suas modifica
 
 #### Crie um Pull Request:
 
-<sub>Descrição:</sub><br>
-
-**Inclua uma descrição clara das suas alterações e explique como elas resolvem o problema ou melhoram o projeto.**
-
+- Inclua uma descrição clara das suas alterações e explique como elas resolvem o problema ou melhoram o projeto.<br>
 - Solicitação: Envie um pull request para o repositório original, solicitando que suas alterações sejam incorporadas ao projeto.
   <br>
 
