@@ -193,7 +193,12 @@ yarn dev
 
 <br>
 
+> [!IMPORTANT]
+>
 > Nessa seção teremos as atualizações do Projeto:
+
+<br>
+<br>
 
 ## Contribute to the projects
 
@@ -205,7 +210,6 @@ yarn dev
 #### Faça um Fork
 
 - Crie uma cópia (fork) do repositório original em sua conta do GitHub.<br>
-
   Isso permitirá que você faça alterações sem afetar o projeto original.<br>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
@@ -229,7 +233,8 @@ Isso criará uma cópia local do projeto, onde você poderá fazer suas modifica
 
 #### Crie um Pull Request:
 
-<sub>Descrição:</sub>
+<sub>Descrição:</sub><br>
+
 **Inclua uma descrição clara das suas alterações e explique como elas resolvem o problema ou melhoram o projeto.**
 
 - Solicitação: Envie um pull request para o repositório original, solicitando que suas alterações sejam incorporadas ao projeto.
