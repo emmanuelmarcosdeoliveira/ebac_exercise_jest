@@ -28,13 +28,6 @@
   - [Usage](#usage)
   - [Update](#update)
   - [Contribute to the projects](#contribute-to-the-projects)
-    - [Como fazer uma contribuição ao Projeto ?](#como-fazer-uma-contribuição-ao-projeto-)
-      - [Faça um Fork](#faça-um-fork)
-      - [Clone o Repositório](#clone-o-repositório)
-      - [Crie uma Nova Branch:](#crie-uma-nova-branch)
-      - [Faça as Alterações:](#faça-as-alterações)
-      - [Crie um Pull Request:](#crie-um-pull-request)
-      - [Revise e Responda a Feedback:](#revise-e-responda-a-feedback)
   - [References](#references)
   - [Contributors or owners](#contributors-or-owners)
   - [Contact](#contact)
@@ -199,25 +192,19 @@ yarn dev
 
 ## Update
 
-<br>
-<!-- rE -->
+<sub>Nessa seção teremos as atualizações do Projeto:</sub>
 
-> [!IMPORTANT]
->
-> Nessa seção teremos as atualizações do Projeto:
-
-<!-- teST -->
 <br>
 <br>
 
 ## Contribute to the projects
 
-### Como fazer uma contribuição ao Projeto ?
+**Como fazer uma contribuição ao Projeto ?**
 
 - Familiarize-se com a documentação do projeto, que geralmente inclui guias de instalação.<br>
 - Explore o código do projeto para entender sua estrutura e funcionamento.<br>
 
-#### Faça um Fork
+**Faça um Fork**
 
 - Crie uma cópia (fork) do repositório original em sua conta do GitHub.<br>
   Isso permitirá que você faça alterações sem afetar o projeto original.<br>
@@ -225,29 +212,29 @@ yarn dev
 <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
 <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo"></a>
 
-#### Clone o Repositório
+**Clone o Repositório**
 
 Isso criará uma cópia local do projeto, onde você poderá fazer suas modificações.
 
 <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
 <a href="https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository"></a>
 
-#### Crie uma Nova Branch:
+**Crie uma Nova Branch:**
 
 - Crie uma nova branch para isolar suas alterações.<br>
 - Isso facilita a organização do seu trabalho e a criação de pull requests.<br>
 
-#### Faça as Alterações:
+**Faça as Alterações:**
 
 - Crie funcionalidades, mude estilos ou resolva `bugs` que iram contribuir para a melhoria do Projeto.<br>
 
-#### Crie um Pull Request:
+**Crie um Pull Request:**
 
 - Inclua uma descrição clara das suas alterações e explique como elas resolvem o problema ou melhoram o projeto.<br>
 - Solicitação: Envie um pull request para o repositório original, solicitando que suas alterações sejam incorporadas ao projeto.
   <br>
 
-#### Revise e Responda a Feedback:
+**Revise e Responda a Feedback:**
 
 - Colabore: Os mantenedores do projeto podem solicitar alterações ou fornecer feedback sobre o seu código.
 
