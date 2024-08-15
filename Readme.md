@@ -4,7 +4,7 @@
 
 <!-- Titulo do Projeto -->
 
-# ✨ Fazendo Test com Jest <img width="102" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" alt="Logo Jest" />
+# ✨ Fazendo testes com Jest & React Testing Library <img width="68px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" alt="Logo Jest" />
 
 <!-- Badges do Projeto -->
 
@@ -25,6 +25,7 @@
 - [Instalation](#instalation)
 - [Usage](#usage)
 - [Update](#update)
+- [contribute](#contribute-to-the-projects)
 - [References](#references)
 - [Contributors or owners](#contributors-or-owners)
 - [Contact](#contact)
@@ -193,6 +194,42 @@ yarn dev
 <br>
 
 > Nessa seção teremos as atualizações do Projeto:
+
+## Contribute to the projects
+
+### Como fazer uma contribuição ao Projeto ?
+
+<sub>Leia a Documentação</sub>
+
+Familiarize-se com a documentação do projeto, que geralmente inclui guias de instalação.<br>
+Código: Explore o código do projeto para entender sua estrutura e funcionamento.<br>
+
+#### Faça um Fork
+
+Crie uma cópia (fork) do repositório original em sua conta do GitHub. Isso permitirá que você faça alterações sem afetar o projeto original.<br>
+
+#### Clone o Repositório
+
+Isso criará uma cópia local do projeto, onde você poderá fazer suas modificações.
+
+#### Crie uma Nova Branch:
+
+- Crie uma nova branch para isolar suas alterações.<br>
+- Isso facilita a organização do seu trabalho e a criação de pull requests.<br>
+
+#### Faça as Alterações:
+
+- Crie um Pull Request:
+  - Solicitação: Envie um pull request para o repositório original, solicitando que suas alterações sejam incorporadas ao projeto.
+
+### Descrição:
+
+`Inclua uma descrição clara das suas alterações e explique como elas resolvem o problema ou melhoram o projeto.`
+<br>
+
+#### Revise e Responda a Feedback:
+
+Colabore: Os mantenedores do projeto podem solicitar alterações ou fornecer feedback sobre o seu código.
 
 ## References
 
