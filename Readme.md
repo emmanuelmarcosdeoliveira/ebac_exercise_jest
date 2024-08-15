@@ -22,10 +22,10 @@
 - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [technologies and tools](#technologies-and-tools)
-- [Instalation](#instalation)
+  - [Instalation](#instalation)
 - [Usage](#usage)
 - [Update](#update)
-- [contribute](#contribute-to-the-projects)
+  - [contribute](#contribute-to-the-projects)
 - [References](#references)
 - [Contributors or owners](#contributors-or-owners)
 - [Contact](#contact)
@@ -199,14 +199,13 @@ yarn dev
 
 ### Como fazer uma contribuição ao Projeto ?
 
-<sub>Leia a Documentação</sub>
-
-Familiarize-se com a documentação do projeto, que geralmente inclui guias de instalação.<br>
-Código: Explore o código do projeto para entender sua estrutura e funcionamento.<br>
+- Familiarize-se com a documentação do projeto, que geralmente inclui guias de instalação.<br>
+- Explore o código do projeto para entender sua estrutura e funcionamento.<br>
 
 #### Faça um Fork
 
-Crie uma cópia (fork) do repositório original em sua conta do GitHub. Isso permitirá que você faça alterações sem afetar o projeto original.<br>
+- Crie uma cópia (fork) do repositório original em sua conta do GitHub.<br>
+  Isso permitirá que você faça alterações sem afetar o projeto original.<br>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
 <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo"></a>
@@ -225,17 +224,19 @@ Isso criará uma cópia local do projeto, onde você poderá fazer suas modifica
 
 #### Faça as Alterações:
 
-- Crie um Pull Request:
-  - Solicitação: Envie um pull request para o repositório original, solicitando que suas alterações sejam incorporadas ao projeto.
+- Crie funcionalidades, mude estilos ou resolva `bugs` que iram contribuir para a melhoria do Projeto.<br>
 
-### Descrição:
+#### Crie um Pull Request:
 
+<sub>Descrição:</sub>
 **Inclua uma descrição clara das suas alterações e explique como elas resolvem o problema ou melhoram o projeto.**
-<br>
+
+- Solicitação: Envie um pull request para o repositório original, solicitando que suas alterações sejam incorporadas ao projeto.
+  <br>
 
 #### Revise e Responda a Feedback:
 
-Colabore: Os mantenedores do projeto podem solicitar alterações ou fornecer feedback sobre o seu código.
+- Colabore: Os mantenedores do projeto podem solicitar alterações ou fornecer feedback sobre o seu código.
 
 ## References
 
