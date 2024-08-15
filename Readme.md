@@ -4,7 +4,7 @@
 
 <!-- Titulo do Projeto -->
 
-# ✨ Fazendo testes com Jest & React Testing Library <img width="68px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" alt="Logo Jest" />
+# ✨ Fazendo testes com Jest & React Testing Library
 
 <!-- Badges do Projeto -->
 
@@ -205,6 +205,7 @@ yarn dev
 #### Faça um Fork
 
 - Crie uma cópia (fork) do repositório original em sua conta do GitHub.<br>
+
   Isso permitirá que você faça alterações sem afetar o projeto original.<br>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
